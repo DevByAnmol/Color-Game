@@ -19,6 +19,13 @@ h1 {
     color: aliceblue;
 }
 
-span {
-    color: aliceblue;
+#stripe {
+    background-color: white;
+    height: 30px;
+    text-align: center;
+    color: royalblue;
+}
+
+.selected {
+    background: mediumblue;
 }
